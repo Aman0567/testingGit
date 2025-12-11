@@ -1,0 +1,13 @@
+{
+  "projectId" : 660,
+  "parameters" : [ {
+    "key" : "connection",
+    "value" : "snowflake_NYC_TAXI_DATA",
+    "type" : "string",
+    "projectId" : 660
+  } ],
+  "metadata" : {
+    "lastUpdated" : "2025-12-11T03:50:46.431310195Z",
+    "updatedBy" : "system-sync"
+  }
+}
