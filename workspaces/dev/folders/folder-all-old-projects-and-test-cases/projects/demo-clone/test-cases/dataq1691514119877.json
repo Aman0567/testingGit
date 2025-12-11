@@ -132,9 +132,9 @@
     "session.id" : "b2d8657a-ca51-4737-89b7-1a223b1095c6"
   },
   "syncInfo" : {
-    "syncId" : "FOLDER",
-    "timestamp" : "2025-12-11T04:00:26.098237734Z",
-    "syncType" : "FOLDER",
+    "syncId" : "PROJECT",
+    "timestamp" : "2025-12-11T04:02:34.131530053Z",
+    "syncType" : "PROJECT",
     "user" : "system"
   }
 }

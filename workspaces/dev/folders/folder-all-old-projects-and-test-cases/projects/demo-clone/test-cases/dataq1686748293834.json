@@ -140,9 +140,9 @@
     "session.id" : "624d73bd-7a64-49a2-9af2-d6a747744df1"
   },
   "syncInfo" : {
-    "syncId" : "FOLDER",
-    "timestamp" : "2025-12-11T04:00:26.248525432Z",
-    "syncType" : "FOLDER",
+    "syncId" : "PROJECT",
+    "timestamp" : "2025-12-11T04:02:34.166441233Z",
+    "syncType" : "PROJECT",
     "user" : "system"
   }
 }
