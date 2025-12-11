@@ -1,0 +1,18 @@
+{
+  "id" : 659,
+  "name" : "test clone",
+  "description" : "test",
+  "fileType" : "project",
+  "projectLevel" : "/714/633",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "enabled" : true,
+  "endDate" : null,
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : "dataops",
+    "createdDate" : "2025-03-26T11:24:24Z",
+    "updatedDate" : "2025-05-28T04:42:58Z"
+  }
+}
