@@ -1,0 +1,16 @@
+{
+  "id" : 796,
+  "name" : "folder-mankesh",
+  "description" : "mankesh",
+  "fileType" : "folder",
+  "projectLevel" : "/",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ON_HOLD",
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : "dhiraj",
+    "createdDate" : "2025-10-30T10:02:47Z",
+    "updatedDate" : "2025-11-14T08:50:26Z"
+  }
+}
