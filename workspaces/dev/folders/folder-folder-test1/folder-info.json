@@ -1,0 +1,16 @@
+{
+  "id" : 737,
+  "name" : "folder-folder test1",
+  "description" : "test",
+  "fileType" : "folder",
+  "projectLevel" : "/714/738",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "metadata" : {
+    "createdBy" : "branyer",
+    "updatedBy" : "branyer",
+    "createdDate" : "2025-06-03T18:03:30Z",
+    "updatedDate" : "2025-06-03T18:06:37Z"
+  }
+}
