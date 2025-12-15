@@ -1,0 +1,13 @@
+{
+  "projectId" : 680,
+  "parameters" : [ {
+    "key" : "schema",
+    "value" : "PUBLIC",
+    "type" : null,
+    "projectId" : 680
+  } ],
+  "metadata" : {
+    "lastUpdated" : "2025-12-15T08:57:36.442177914Z",
+    "updatedBy" : "system-sync"
+  }
+}
