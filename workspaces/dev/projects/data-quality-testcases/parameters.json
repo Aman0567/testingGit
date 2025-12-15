@@ -1,0 +1,13 @@
+{
+  "projectId" : 769,
+  "parameters" : [ {
+    "key" : "var1",
+    "value" : "large_data",
+    "type" : null,
+    "projectId" : 769
+  } ],
+  "metadata" : {
+    "lastUpdated" : "2025-12-15T09:01:18.792324915Z",
+    "updatedBy" : "system-sync"
+  }
+}
