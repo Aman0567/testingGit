@@ -1,0 +1,13 @@
+{
+  "projectId" : 648,
+  "parameters" : [ {
+    "key" : "snowflake_connection",
+    "value" : "snowflake_large_db_1",
+    "type" : null,
+    "projectId" : 648
+  } ],
+  "metadata" : {
+    "lastUpdated" : "2025-12-18T10:01:49.313985225Z",
+    "updatedBy" : "system-sync"
+  }
+}
