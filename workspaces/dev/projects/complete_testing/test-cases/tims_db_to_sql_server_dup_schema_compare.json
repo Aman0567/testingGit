@@ -1382,8 +1382,8 @@
   "flowType" : "SCHEMA COMPARE",
   "syncInfo" : {
     "syncId" : "PROJECT",
-    "timestamp" : "2025-12-16T10:40:27.186869387Z",
+    "timestamp" : "2025-12-18T10:03:40.062445150Z",
     "syncType" : "PROJECT",
-    "user" : "dhiraj"
+    "user" : "system"
   }
 }

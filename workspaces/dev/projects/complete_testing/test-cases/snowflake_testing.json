@@ -2580,8 +2580,8 @@
   "flowType" : "CELL BY CELL COMPARE",
   "syncInfo" : {
     "syncId" : "PROJECT",
-    "timestamp" : "2025-12-16T10:40:26.930404575Z",
+    "timestamp" : "2025-12-18T10:03:39.492979783Z",
     "syncType" : "PROJECT",
-    "user" : "dhiraj"
+    "user" : "system"
   }
 }
