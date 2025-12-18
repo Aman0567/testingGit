@@ -1,0 +1,16 @@
+{
+  "id" : 715,
+  "name" : "c",
+  "description" : "c",
+  "fileType" : "folder",
+  "projectLevel" : "/714",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "metadata" : {
+    "createdBy" : "branyer",
+    "updatedBy" : "dhiraj",
+    "createdDate" : "2025-05-21T08:56:01Z",
+    "updatedDate" : "2025-12-16T09:31:16Z"
+  }
+}
