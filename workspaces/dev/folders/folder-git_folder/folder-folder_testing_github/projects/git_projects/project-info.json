@@ -2,7 +2,7 @@
   "id" : 883,
   "name" : "git_projects",
   "description" : " ",
-  "fileType" : "project",
+  "fileType" : "PROJECT",
   "projectLevel" : "/875/882",
   "groupName" : "dev",
   "iconId" : "0",
@@ -11,8 +11,8 @@
   "endDate" : null,
   "metadata" : {
     "createdBy" : "dhiraj",
-    "updatedBy" : "dhiraj",
+    "updatedBy" : "system_pull",
     "createdDate" : "2025-12-16T07:48:14Z",
-    "updatedDate" : "2025-12-16T07:58:02Z"
+    "updatedDate" : "2025-12-16T10:19:59Z"
   }
 }
