@@ -1208,8 +1208,8 @@
   "flowType" : "COUNTS COMPARE",
   "syncInfo" : {
     "syncId" : "PROJECT",
-    "timestamp" : "2025-12-16T10:40:27.612317495Z",
+    "timestamp" : "2025-12-18T10:03:40.711439815Z",
     "syncType" : "PROJECT",
-    "user" : "dhiraj"
+    "user" : "system"
   }
 }
