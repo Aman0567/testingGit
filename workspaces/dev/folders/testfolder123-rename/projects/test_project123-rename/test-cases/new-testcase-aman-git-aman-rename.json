@@ -10,7 +10,7 @@
   "livy" : false,
   "root" : "dataCompare",
   "parameters" : [ {
-    "paramName" : "sf_conn",
+    "paramName" : "sf_conn_testing",
     "paramValue" : "snowflake_NYC_TAXI_DATA",
     "param_type" : "string",
     "code" : null,
@@ -161,7 +161,7 @@
   "dmsProjectId" : 889,
   "syncInfo" : {
     "syncId" : "PROJECT",
-    "timestamp" : "2025-12-24T11:24:49.894987489Z",
+    "timestamp" : "2025-12-24T11:26:46.262434811Z",
     "syncType" : "PROJECT",
     "user" : "dhiraj"
   }
