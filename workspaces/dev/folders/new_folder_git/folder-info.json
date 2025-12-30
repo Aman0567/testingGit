@@ -1,0 +1,16 @@
+{
+  "id" : 898,
+  "name" : "New_folder_git",
+  "description" : " ",
+  "fileType" : "folder",
+  "projectLevel" : "/897",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "metadata" : {
+    "createdBy" : "dhiraj",
+    "updatedBy" : null,
+    "createdDate" : "2025-12-30T08:08:58Z",
+    "updatedDate" : "2025-12-30T08:08:58Z"
+  }
+}
