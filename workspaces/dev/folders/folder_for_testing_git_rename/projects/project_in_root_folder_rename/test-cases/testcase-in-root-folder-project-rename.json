@@ -10,7 +10,7 @@
   "livy" : false,
   "root" : "dataCompare",
   "parameters" : [ ],
-  "flowType" : "CELL BY CELL COMPARE",
+  "flowType" : "SCHEMA COMPARE",
   "jobMap" : {
     "source" : {
       "dependentJob" : true,
@@ -81,11 +81,11 @@
       "dependsOn" : [ "source", "target" ],
       "description" : "dataCompare component",
       "id" : "dataCompare",
-      "jobTypes" : [ "CELL_BY_CELL_COMPARE" ],
+      "jobTypes" : [ "SCHEMA_COMPARE" ],
       "filesCompareList" : [ {
         "unitTestCaseId" : 1521786903202,
         "matchBoth" : true,
-        "compareType" : "CELL_BY_CELL_COMPARE",
+        "compareType" : "SCHEMA_COMPARE",
         "compareColumns" : false,
         "compareCommonColumnsOnly" : true,
         "srcDestTableMap" : {
@@ -96,41 +96,6 @@
         },
         "saveAllDiffOutput" : "",
         "validateRowsCount" : false,
-        "tolerance" : [ ],
-        "sqlTransform" : [ ],
-        "compareKey" : [ "O_ORDERKEY" ],
-        "compareKeyNew" : [ {
-          "srcColumn" : "O_ORDERKEY",
-          "destColumn" : "O_ORDERKEY"
-        } ],
-        "columnMapping" : [ {
-          "srcColumn" : "O_TOTALPRICE",
-          "destColumn" : "O_TOTALPRICE"
-        }, {
-          "srcColumn" : "O_SHIPPRIORITY",
-          "destColumn" : "O_SHIPPRIORITY"
-        }, {
-          "srcColumn" : "O_ORDERSTATUS",
-          "destColumn" : "O_ORDERSTATUS"
-        }, {
-          "srcColumn" : "O_ORDERPRIORITY",
-          "destColumn" : "O_ORDERPRIORITY"
-        }, {
-          "srcColumn" : "O_ORDERKEY",
-          "destColumn" : "O_ORDERKEY"
-        }, {
-          "srcColumn" : "O_ORDERDATE",
-          "destColumn" : "O_ORDERDATE"
-        }, {
-          "srcColumn" : "O_CUSTKEY",
-          "destColumn" : "O_CUSTKEY"
-        }, {
-          "srcColumn" : "O_COMMENT",
-          "destColumn" : "O_COMMENT"
-        }, {
-          "srcColumn" : "O_CLERK",
-          "destColumn" : "O_CLERK"
-        } ],
         "keyValueProperties" : {
           "DETECT_COMPARE_KEYS" : "false",
           "DETECT_COMPARE_KEYS_LIMIT" : "5"
@@ -142,7 +107,6 @@
       },
       "keyValueProps" : {
         "OUTER_JOIN_BASED_COMPARE" : "true",
-        "CONVERT_NUMBER_TO_LONG" : "false",
         "BAD_RECORD_COUNT" : "10"
       }
     }
