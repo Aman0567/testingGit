@@ -26,7 +26,7 @@
     "codeLanguage" : null,
     "codeSchema" : null
   } ],
-  "flowType" : "SCHEMA COMPARE",
+  "flowType" : "COUNTS COMPARE",
   "jobMap" : {
     "source" : {
       "dependentJob" : true,
@@ -97,11 +97,11 @@
       "dependsOn" : [ "source", "target" ],
       "description" : "dataCompare component",
       "id" : "dataCompare",
-      "jobTypes" : [ "SCHEMA_COMPARE" ],
+      "jobTypes" : [ "COUNTS_COMPARE" ],
       "filesCompareList" : [ {
         "unitTestCaseId" : 77916873238,
         "matchBoth" : true,
-        "compareType" : "SCHEMA_COMPARE",
+        "compareType" : "COUNTS_COMPARE",
         "compareColumns" : false,
         "compareCommonColumnsOnly" : true,
         "srcDestTableMap" : {
@@ -115,6 +115,7 @@
         "keyValueProperties" : {
           "DETECT_COMPARE_KEYS" : "false",
           "DETECT_COMPARE_KEYS_LIMIT" : "5",
+          "COMPARISON_OPERATOR" : "=",
           "IGNORE_COLUMN_PRIMARYKEY_SCHEMA_COMPARE" : "true"
         }
       } ],
@@ -123,6 +124,7 @@
         "y" : 181
       },
       "keyValueProps" : {
+        "COUNTS_COMPARE_TOLERANCE" : "0",
         "BAD_RECORD_COUNT" : "10"
       }
     }
