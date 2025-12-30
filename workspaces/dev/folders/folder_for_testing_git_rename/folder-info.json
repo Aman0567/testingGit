@@ -1,6 +1,6 @@
 {
   "id" : 897,
-  "name" : "folder_for_testing_git",
+  "name" : "folder_for_testing_git_rename",
   "description" : " ",
   "fileType" : "folder",
   "projectLevel" : "/",
@@ -9,8 +9,8 @@
   "status" : "ACTIVE",
   "metadata" : {
     "createdBy" : "dhiraj",
-    "updatedBy" : null,
+    "updatedBy" : "dhiraj",
     "createdDate" : "2025-12-30T08:07:37Z",
-    "updatedDate" : "2025-12-30T08:07:37Z"
+    "updatedDate" : "2025-12-30T08:12:37Z"
   }
 }
